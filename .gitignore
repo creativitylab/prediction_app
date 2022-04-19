@@ -115,3 +115,6 @@ fabric.properties
 
 examples/*
 handy_examples_disertatie/*
+.gitattributes
+.idea
+__pycache__/
